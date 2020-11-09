@@ -2,4 +2,4 @@
 
 Can we see this yet?
 
-Looks **so** pretty
+Looks **so** pretty in *italics*
